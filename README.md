@@ -48,3 +48,6 @@ If you contribute to the IronCore organization on GitHub, we'd love to offer you
 
 If you've contributed in other ways, such as giving talks about IronCore, teaching others to use it, writing IronCore articles/tutorials, participating in an IronCore research project, or any other way, please fill reach out to let us know!
 
+## Code of Conduct
+
+It should go without saying, but a community is a place for respectful interactions and the IronCore community is a place where people are meant to debate ideas, architect solutions, and help each other. This is not a place for shaming people (for example, for poor security practices or lack of knowledge or understanding) or any other behavior that would make people feel unwelcome.  The unwritten rules of the physical world, sadly need to be written down and enforced in the digital one. To that end, we have a fairly standard [code of conduct](https://github.com/IronCoreLabs/community/blob/main/CODE_OF_CONDUCT.md) that applies to our community.
