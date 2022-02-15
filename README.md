@@ -42,11 +42,12 @@ As part of our mission, we have a strong emphasis on open-source software. Much,
 
 ## Free swag for contributors
 
-_**Coming soon**_
-
-If you contribute to the IronCore organization on GitHub, we'd love to offer you some free swag. You can claim your swag by logging into the IronCore Store and requesting a discount code. With five or more contributions, you can claim your "Level 2" swag.
+If you contribute to the IronCore organization on GitHub, we'd love to offer you some free swag. You can claim your swag by logging into the IronCore Store and requesting a discount code. With five or more contributions, you can claim your swag credit.
 
 If you've contributed in other ways, such as giving talks about IronCore, teaching others to use it, writing IronCore articles/tutorials, participating in an IronCore research project, or any other way, please fill reach out to let us know!
+
+* [Swag Store →](https://store.ironcorelabs.com/)
+* [Swag Request Form →](https://ironcorelabs.com/community/)
 
 ## Code of Conduct
 
